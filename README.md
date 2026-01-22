@@ -1,5 +1,7 @@
 # Xdot MacOS Application
 
+Xdot MacOS Application wrapper around https://github.com/jrfonseca/xdot.py
+
 ## Intro
 
 This project allows you to wrap the commandline xdot application into a MacOS
