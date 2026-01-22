@@ -70,4 +70,4 @@ You're done. You can also register the 'Xdot' App as the default application for
   windows are closed when the main Xdot App exits. This allows you to easily close
   all xdot windows by closing the main app.
 
-The scripts log into LOGFILE="/tmp/xdot_log.txt".
+The scripts log into LOGFILE="/tmp/xdot.log".
