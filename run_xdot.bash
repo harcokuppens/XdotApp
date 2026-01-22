@@ -5,7 +5,7 @@ XDOT_PROGAM="/opt/homebrew/bin/xdot"
 
 #log "xdot launched via runxdot.bash, PID: $$"
 
-LOGFILE="/tmp/xdot_log.txt"
+LOGFILE="/tmp/Xdot.log"
 LOGGING_ENABLED="true"
 
 log() {

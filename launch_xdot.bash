@@ -2,7 +2,7 @@
 
 ## launcher for Platypus Droplet App 'Xdot' App
 
-LOGFILE="/tmp/xdot_log.txt"
+LOGFILE="/tmp/Xdot.log"
 LOGGING_ENABLED="true"
 
 SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
